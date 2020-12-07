@@ -1,0 +1,2 @@
+C:\dev\faculdade\mislene\Mercado\Mercado.Repositorios.Entity\obj\Debug\Mercado.Repositorios.Entity.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Mercado\Mercado.Repositorios.Entity\obj\Debug\Mercado.Repositorios.Entity.csproj.CoreCompileInputs.cache

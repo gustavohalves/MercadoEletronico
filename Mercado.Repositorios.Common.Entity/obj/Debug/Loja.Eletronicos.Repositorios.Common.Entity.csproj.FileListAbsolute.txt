@@ -1,0 +1,1 @@
+C:\dev\faculdade\mislene\Mercado\Mercado.Repositorios.Common.Entity\obj\Debug\Mercado.Repositorios.Common.Entity.csproj.CoreCompileInputs.cache

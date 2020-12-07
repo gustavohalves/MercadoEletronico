@@ -1,0 +1,6 @@
+C:\dev\faculdade\mislene\Mercado\Mercado.Repositorios.Common\bin\Debug\Mercado.Repositorios.Common.dll
+C:\dev\faculdade\mislene\Mercado\Mercado.Repositorios.Common\bin\Debug\Mercado.Repositorios.Common.pdb
+C:\dev\faculdade\mislene\Mercado\Mercado.Repositorios.Common\obj\Debug\Mercado.Repositorios.Common.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Mercado\Mercado.Repositorios.Common\obj\Debug\Mercado.Repositorios.Common.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\mislene\Mercado\Mercado.Repositorios.Common\obj\Debug\Mercado.Repositorios.Common.dll
+C:\dev\faculdade\mislene\Mercado\Mercado.Repositorios.Common\obj\Debug\Mercado.Repositorios.Common.pdb

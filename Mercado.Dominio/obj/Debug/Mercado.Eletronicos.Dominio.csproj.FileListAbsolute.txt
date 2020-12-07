@@ -1,0 +1,6 @@
+C:\dev\faculdade\mislene\Mercado\Mercado.Dominio\bin\Debug\Mercado.Dominio.dll
+C:\dev\faculdade\mislene\Mercado\Mercado.Dominio\bin\Debug\Mercado.Dominio.pdb
+C:\dev\faculdade\mislene\Mercado\Mercado.Dominio\obj\Debug\Mercado.Dominio.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Mercado\Mercado.Dominio\obj\Debug\Mercado.Dominio.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\mislene\Mercado\Mercado.Dominio\obj\Debug\Mercado.Dominio.dll
+C:\dev\faculdade\mislene\Mercado\Mercado.Dominio\obj\Debug\Mercado.Dominio.pdb
